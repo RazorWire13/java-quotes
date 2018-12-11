@@ -1,8 +1,9 @@
 ## Lab 8: Popular Book Quote
 * Using the file quotes.json to show random popular book quotes. This app uses GSON to parse the .json file. The app chooses one quote at random and shows the quote and the author when it is run.
 
-# Dependencies
-* Copy the following gradle dependency line and paste it into your build.gradle file under the "dependencies" tag
+## Lab 9: The Swansoning
+* Ron Swaonson quotes API integrated and will output a random Swansonism if the client has interent connectivity, and will outout a standard quote if not.
 
-  implementation 'com.google.code.gson:gson:2.8.5'
-* Save the build.gradle file and allow the library download to commence and complete.
+# Dependencies
+* GSON
+
